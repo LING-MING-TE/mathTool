@@ -25,11 +25,11 @@ document.addEventListener('DOMContentLoaded', function() {
 });
        // 照片集合
         const photos = [
-            './images/LINE_ALBUM_20250419墾丁行_250503_1.jpg', // 原始照片
-            './images/LINE_ALBUM_824小琉球之旅_250503_1.jpg', // 請替換為實際照片路徑
-            './images/LINE_ALBUM_20250419墾丁行_250503_2.jpg', 
-            './images/LINE_ALBUM_20250419墾丁行_250503_3.jpg',
-            './images/LINE_ALBUM_過年台北遊_250503_1.jpg'
+            'LINE_ALBUM_20250419墾丁行_250503_1.jpg', // 原始照片
+            'LINE_ALBUM_824小琉球之旅_250503_1.jpg', // 請替換為實際照片路徑
+            'LINE_ALBUM_20250419墾丁行_250503_2.jpg', 
+            'LINE_ALBUM_20250419墾丁行_250503_3.jpg',
+            'LINE_ALBUM_過年台北遊_250503_1.jpg'
         ];
         
         // 當前顯示的照片索引
